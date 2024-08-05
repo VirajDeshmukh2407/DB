@@ -1,5 +1,5 @@
 const express = require("express");
-require("dotenv").config();
+// require("dotenv").config();
 const { signUpData: User } = require("../db.js");
 const router = express.Router();
 const nodemailer = require("nodemailer");

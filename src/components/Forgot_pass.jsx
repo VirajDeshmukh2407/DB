@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import main_img from "../assests/main_image.png"; // Ensure the path is correct
+import main_img from "../assests/main_image.png";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
